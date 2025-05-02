@@ -3,3 +3,4 @@ android
 ios
 vendor
 .env
+react-native.config.js
